@@ -1,28 +1,24 @@
-<h1 align="center">Hi 👋, I'm Tomás</h1>
+# Hi, I'm Tomás Ávila
 
-Infrastructure Engineer transitioning into AWS Cloud, Platform Engineering and DevSecOps.
+**IT Infrastructure Engineer | Linux, Networking, Virtualization & Ansible**
 
-I work with Linux, Windows Server, networking, virtualization, Microsoft 365 and industrial IT environments. My current learning and project focus includes:
+I work across enterprise and industrial IT, supporting servers, networks, virtualization, identity, and monitoring. I'm building on that experience to move into DevOps, with a focus on infrastructure automation and reliable application deployments.
 
-AWS
+## What I do
 
-Terraform
+- **Infrastructure:** Administer and troubleshoot Linux and Windows Server, VMware ESXi, and Proxmox.
+- **Networking:** Configure VLANs, VPNs, firewalls, and remote access.
+- **Identity and operations:** Work with Active Directory, Microsoft Entra ID, Microsoft 365, Zabbix, and backup and recovery systems.
+- **Automation:** Collaborate with developers to automate application installations and configure permissions with Ansible.
+- **Industrial IT:** Support infrastructure for SCADA environments, including AVEVA System Platform and Wonderware.
 
-Docker
+## What I'm learning
 
-Kubernetes
+I'm currently focusing on **Ansible and Git**. Next, I'm working toward **Docker and CI/CD with GitHub Actions**, followed by **AWS and Terraform**. I'm also building my Bash and Python skills for infrastructure automation.
 
-GitHub Actions
+## What you'll find here
 
-Python and Bash automation
-
-Cloud Security
-
-DevSecOps
-
-OT/ICS Security
-
-This profile documents my hands-on laboratories, infrastructure projects, automation scripts, troubleshooting notes and secure cloud architectures.
+This profile is where I share personal labs, automation scripts, and troubleshooting notes as I learn. My goal is to understand not just how to deploy something, but also how to verify it, diagnose failures, and recover when things go wrong.
 
 Building reliable, automated and secure platforms.<h3 align="left">Connect with me:</h3>
 <p align="left">
